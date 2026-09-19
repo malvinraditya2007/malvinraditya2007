@@ -20,7 +20,7 @@ Fullstack Developer building end-to-end web platforms — from scalable architec
 
 📈 **[CryPIto](https://github.com/malvinraditya2007/crypito)** — Cryptocurrency tracking & market dashboard  
 
-♻️ **[TrashClassifier](https://github.com/malvinraditya2007/trash-classifier)** — Computer vision waste classification system using SVM & OpenCV  
+♻️ **[TrashClassifier](https://github.com/malvinraditya2007/trashClassifier)** — Computer vision waste classification system using SVM & OpenCV  
 
 📊 **[EUR/USD Predictor](https://github.com/malvinraditya2007/eur-usd-predict)** — Time-series financial trend prediction model  
 
