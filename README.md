@@ -23,7 +23,7 @@
 
   <p>
     <a href="(VERCEL APPS)">
-      <img src="https://img.shields.io/badge/Portfolio-zickrian.dev-6B8E6E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=3F4F44" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=3F4F44" alt="Portfolio" />
     </a>
   </p>
 </div>
