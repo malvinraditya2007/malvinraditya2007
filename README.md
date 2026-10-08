@@ -51,7 +51,7 @@
 
 ### 🧰 Tech Garden
 
-<div align="center">
+<div align="left">
 
   <h4>Languages</h4>
   <p>
