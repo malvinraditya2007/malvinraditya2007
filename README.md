@@ -1,6 +1,6 @@
 # Hi , I'm Malvin 👋
 
-<div align="center">
+<div align="left">
   <p>
     I'm currently pursuing a Bachelor's degree in Computer Science while sharpening my programming skills and exploring the wider technology landscape.<br>
     My learning journey is focused on artificial intelligence, software development and machine learning with a long-term goal of transforming raw data into actionable insights, decision-support tools, and intelligent systems that create real business impact.
@@ -19,9 +19,6 @@
     <a href="https://wa.me/6282289956468" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=3F4F44" alt="WhatsApp" />
     </a>
-  </p>
-
-  <p>
     <a href="(VERCEL APPS)">
       <img src="https://img.shields.io/badge/style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=3F4F44" alt="Portfolio" />
     </a>
