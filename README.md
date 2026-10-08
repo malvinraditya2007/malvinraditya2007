@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/in/malvin-raditya-nugraha">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2E3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3F4F44" alt="LinkedIn" />
     </a>
-    <a href="https://instagram.com/USERNAME_LU" target="_blank">
+    <a href="https://instagram.com/malvinrn" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-Profile-C13584?style=for-the-badge&logo=instagram&logoColor=white&labelColor=3F4F44" alt="Instagram" />
     </a>
     <a href="https://wa.me/6282289956468" target="_blank">
