@@ -19,7 +19,7 @@
     <a href="https://wa.me/6282289956468" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=3F4F44" alt="WhatsApp" />
     </a>
-    <a href="(VERCEL APPS)">
+    <a href="https://malvinraditya.vercel.app/">
       <img src="https://img.shields.io/badge/style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=3F4F44" alt="Portfolio" />
     </a>
   </p>
