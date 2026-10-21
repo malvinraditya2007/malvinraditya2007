@@ -20,7 +20,7 @@
       <img src="https://img.shields.io/badge/WhatsApp-Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=3F4F44" alt="WhatsApp" />
     </a>
     <a href="https://malvinraditya.vercel.app">
-      <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/-PORTFOLIO-151927?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
   </p>
 </div>
