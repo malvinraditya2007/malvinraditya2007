@@ -75,4 +75,21 @@
 
   <h4>Backend Development</h4>
   <p>
-    <img src=
+    <img src="https://img.shields.io/badge/Node.js-2F4F3A?style=for-the-badge&logo=nodedotjs&logoColor=F6E7B7" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express.js-1B4332?style=for-the-badge&logo=express&logoColor=F6E7B7" alt="Express.js" />
+    <img src="https://img.shields.io/badge/FastAPI-40916C?style=for-the-badge&logo=fastapi&logoColor=F6E7B7" alt="FastAPI" />
+  </p>
+
+  <h4>Database</h4>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-233D4D?style=for-the-badge&logo=mysql&logoColor=F6E7B7" alt="MySQL" />
+  </p>
+
+  <h4>Tools & Technologies</h4>
+  <p>
+    <img src="https://img.shields.io/badge/GitHub-2D4A3E?style=for-the-badge&logo=github&logoColor=F6E7B7" alt="GitHub" />
+    <img src="https://img.shields.io/badge/VS_Code-1F4D3A?style=for-the-badge&logo=visualstudiocode&logoColor=F6E7B7" alt="VS Code" />
+    <img src="https://img.shields.io/badge/Google_Colab-D6A85E?style=for-the-badge&logo=googlecolab&logoColor=0D1117" alt="Google Colab" />
+  </p>
+
+</div>
